@@ -91,7 +91,7 @@ html {
 .change .nav_mneu_link {
     opacity: 1;
     visibility: visible;
-    transition: all .3s .3s;
+    transition: all .3s .2s;
 }
 
 .nav_mneu_link:nth-child(1) {
